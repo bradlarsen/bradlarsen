@@ -11,7 +11,7 @@ You can find my resume [here](https://bradfordlarsen.com/files/bradford-larsen-c
 
 ## Open Source
 
-Nearly all of my professional work has been in closed-source proprietary codebases. However, there are some exceptions, such as this noninclusive list:
+Nearly all of my professional work has been in closed-source proprietary codebases. But some has been open-source, including these:
 
 - I [found](https://www.mail-archive.com/sqlite-users@mailinglists.sqlite.org/msg100687.html) and [fixed](https://www.sqlite.org/src/info/4fc6580ffa7232aa) a bug in the tokenizer in [SQLite](https://sqlite.org) that caused it to not work on EBCDIC systems
 - I [found](https://bugs.python.org/issue36495) and [fixed](https://github.com/python/cpython/pull/12641) memory errors in the parser in [CPython](https://github.com/python/cpython) that [also affected](https://github.com/python/typed_ast/pull/99) its related [`typed-ast`](https://github.com/python/typed_ast) library
