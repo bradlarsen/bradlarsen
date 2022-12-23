@@ -9,6 +9,8 @@ I currently work in a team at [Praetorian](https://praetorian.com) that is combi
 
 You can find my resume [here](https://bradfordlarsen.com/files/bradford-larsen-computer-scientist.pdf). I’ve also written and presented several [peer-reviewed publications](https://bradfordlarsen.com/publications/) over the years.
 
+You can find me on the infosec.exchange Mastadon instance as <a rel="me" href="https://infosec.exchange/@bradlarsen">@bradlarsen</a>.
+
 ## Open Source
 
 Nearly all of my professional work has been in closed-source proprietary codebases. But some has been open-source, including these things:
