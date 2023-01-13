@@ -3,7 +3,7 @@
 [![Twitter Link](https://img.shields.io/twitter/follow/bradlarsen?style=social)](https://twitter.com/bradlarsen)
 [![website](https://img.shields.io/badge/website-bradfordlarsen.com-lightgray)](https://www.bradfordlarsen.com)
 
-I’m a computer scientist in Massachusetts with graduate education and 11 years industry experience. I’ve worked on static program analysis, symbolic execution, compilers and interpreters, fuzz testing, and application security.
+I’m a computer scientist in Massachusetts with graduate education and 12 years industry experience. I’ve worked on static program analysis, symbolic execution, compilers and interpreters, fuzz testing, and application security.
 
 I currently work in a team at [Praetorian](https://praetorian.com) that is combining static analysis with machine learning (specifically, large language models) to amplify and augment the capabilities of offensive security operators.
 
