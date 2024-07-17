@@ -5,7 +5,7 @@
 
 I’m a computer scientist in Massachusetts with graduate education who has worked in industry for 13 years. I’ve worked on static program analysis, symbolic execution, compilers and interpreters, fuzz testing, application security, and production machine learning systems.
 
-I currently work in a team at [Praetorian](https://praetorian.com) that is combining static analysis with machine learning to amplify and augment the capabilities of offensive security operators.
+I currently work in a team at [Praetorian](https://praetorian.com) that combines static analysis with machine learning to augment the capabilities of offensive security operators.
 
 You can find my resume [here](https://bradfordlarsen.com/files/bradford-larsen-computer-scientist.pdf). I’ve also written and presented several [peer-reviewed publications](https://bradfordlarsen.com/publications/) over the years.
 
