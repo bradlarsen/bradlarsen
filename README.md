@@ -3,7 +3,7 @@
 [![Mastodon Profile](https://img.shields.io/mastodon/follow/109522097799876582?domain=https%3A%2F%2Finfosec.exchange)](https://infosec.exchange/@bradlarsen)
 [![Personal Website](https://img.shields.io/badge/website-bradfordlarsen.com-lightgray)](https://www.bradfordlarsen.com)
 
-I’m a computer scientist in Massachusetts with graduate education and 15 years of industry experience. I’ve worked on static program analysis, symbolic execution, compilers and interpreters, high-performance computing, fuzz testing, application security, and production machine learning systems.
+I’m a computer scientist in Massachusetts with graduate education and 15 years of industry experience. I’ve worked in binary- and source-based static program analysis, symbolic execution, compilers and interpreters, high-performance computing, fuzz testing, application security, secrets detection, and production machine learning systems.
 
 I currently work at [Truffle Security](https://trufflesecurity.com) doing research and development on secrets detection and all other things secrets-related.
 
