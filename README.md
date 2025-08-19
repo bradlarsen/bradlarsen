@@ -3,9 +3,18 @@
 [![Mastodon Profile](https://img.shields.io/mastodon/follow/109522097799876582?domain=https%3A%2F%2Finfosec.exchange)](https://infosec.exchange/@bradlarsen)
 [![Personal Website](https://img.shields.io/badge/website-bradfordlarsen.com-lightgray)](https://www.bradfordlarsen.com)
 
-I’m a computer scientist in Massachusetts with graduate education and 15 years of industry experience. I’ve worked in binary- and source-based static program analysis, symbolic execution, compilers and interpreters, high-performance computing, fuzz testing, application security, secrets detection, and production machine learning systems.
+I'm a computer scientist in Massachusetts with graduate education and 15 years of security-relevant industry experience.
+I’ve worked hands-on in binary- and source-based static program analysis, symbolic execution, compilers and interpreters, high-performance computing, fuzz testing, application security, secrets detection, and production machine learning systems.
 
 I currently work at [Truffle Security](https://trufflesecurity.com) doing research and development on secrets detection and all other things secrets-related.
+Previously, for nearly 4 years, I authored and maintained [Nosey Parker](https://github.com/praetorian-inc/noseyparker), a fast, high-signal secrets detector designed for offensive security engagements.
+
+I love building tools that people use, and I deeply value craftsmanship.
+I've done my very best work when I’m directly involved with the entire product life, including ideation, development, distribution, and working with users to understand their problems and make them successful.
+
+My professional interests focus on _making software better_, based on the thesis that computers can be leveraged dramatically more than they are today to aid in constructing software that works as intended.
+This involves things like building correct-by-construction libraries, scaling program analyses to real software, applying fuzzing and property-based testing to existing code, and integrating machine-based checks into the software development process.
+Imagine—software that _works_!
 
 You can find a PDF of my resume [here](https://bradfordlarsen.com/files/bradford-larsen-computer-scientist.pdf). I’ve also written and presented several [peer-reviewed publications](https://bradfordlarsen.com/publications/) over the years.
 
